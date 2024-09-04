@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akibbagwan69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L-mgrygiRFCB_jPT8TZyn71OQIyAeTbL/view?usp=drive_link](https://drive.google.com/file/d/1L-mgrygiRFCB_jPT8TZyn71OQIyAeTbL/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MIOlqq1xklGz4WdJhdMMGinelrAZbslt/view?usp=drive_link](https://drive.google.com/file/d/1MIOlqq1xklGz4WdJhdMMGinelrAZbslt/view?usp=drive_link)
 
 - ⚡ Fun fact **Specialization in Front-end , Getting hands-on Backend**
 
