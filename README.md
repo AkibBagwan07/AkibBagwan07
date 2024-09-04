@@ -5,7 +5,7 @@
 
 - 🌱 **Experienced in React,Getting hands on Angular JS**
 
-- 👯 I’m looking to collaborate on **Full Stack Applications**
+- 🤝 I’m looking to collaborate on **Full Stack Applications**
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/akibbagwan69/](https://www.crio.do/learn/portfolio/akibbagwan69/)
 
